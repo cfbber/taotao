@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCompilerSettings">
+    <option name="DEBUGGING_INFO" value="false" />
+    <option name="GENERATE_NO_WARNINGS" value="true" />
+    <option name="DEPRECATION" value="false" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/taotao-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-cart/taotao-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-content/taotao-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-manager/taotao-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-order/taotao-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-search/taotao-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-sso/taotao-sso-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-sso/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
